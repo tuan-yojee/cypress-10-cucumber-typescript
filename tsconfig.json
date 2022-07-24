@@ -1,0 +1,30 @@
+{
+  // "compilerOptions": {
+  //   "strict": true,
+    // "baseUrl": "../node_modules",
+  //   "target": "es5",
+  //   "lib": ["es5", "dom"],
+  //   "typeRoots": ["./support"]
+  // },
+  "include": ["**/*.ts"]
+
+  // Option 2
+  // "compilerOptions": {
+  //   "strict": true,
+  //   "baseUrl": "../node_modules",
+  //   "target": "es6",
+  //   "module": "commonjs",
+  //   "lib": [
+  //     "es5",
+  //     "dom"
+  //   ],
+  //   "types": [
+  //     "cypress"
+  //   ],
+  //   "esModuleInterop": true,
+  //   "allowSyntheticDefaultImports": true
+  // },
+  // "include": [
+  //   "**/*.ts"
+  // ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cypress-cucumber-typescript-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "11.5.1",
+    "@cypress/webpack-preprocessor": "5.12.0",
+    "cypress": "10.3.1",
+    "multiple-cucumber-html-reporter": "^1.21.4",
+    "ts-loader": "9.3.1",
+    "typescript": "4.7.4",
+    "webpack": "5.73.0"
+  }
+}
